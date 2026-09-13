@@ -5,7 +5,7 @@ pedidos entre 01/09/2023 e 31/03/2024, vindos de três sistemas que não se
 falam. Este repositório constrói o modelo dimensional que torna
 respondíveis as cinco perguntas de negócio da diretoria, com PostgreSQL.
 
-> 🎥 **Vídeo (até 5 min):** `<link do Google Drive, modo leitor público>`
+> 🎥 **Vídeo (até 5 min):** `<https://drive.google.com/file/d/1wnkcXardNZbN_Sek92ab_K2boSRhO22C/view?usp=drive_link>`
 
 ## Estrutura do repositório
 
